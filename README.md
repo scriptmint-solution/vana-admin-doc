@@ -1,0 +1,2 @@
+# mintui-doc
+MintUI Documentation
