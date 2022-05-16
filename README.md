@@ -10,7 +10,7 @@ Vana Admin offers various in-built features like installation wizard, authentica
 
 For detailed feature list please visit https://scriptmint.com/vana-admin
 
-For detailed documentation please visit https://github.com/scriptmintsolution/vana-admin-doc/wiki
+For detailed documentation please visit https://github.com/scriptmint-solution/vana-admin-doc/wiki
 
 ### Security
 
