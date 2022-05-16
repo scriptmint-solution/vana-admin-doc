@@ -18,6 +18,3 @@ If you discover any security related issues, please email hello@scriptmint.com
 
 ### Browser Support
 Modern browser only
-
-### License
-[GNU](LICENSE.txt) License
